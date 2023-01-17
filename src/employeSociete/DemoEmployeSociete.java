@@ -24,7 +24,6 @@ public class DemoEmployeSociete {
 		Employe e6 = new Employe("Camille", s3);
 		
 		
-		// affihcerlistesociete -> affiche la liste de toutes les sociétés de l'employé
 		afficherListeSocietes();
 		
 		System.out.println("--------------------------------------------");
